@@ -2,10 +2,10 @@
 Source code for a Movie Trailer website.
 
 # Steps
-* Install Python
-* Clone the repository using git clone
-* Navigate to the directory
-* Run python entertainment_center.py
+1. Install [Python](https://www.python.org/)
+1. Clone the repository using `git clone https://github.com/manikandants/ud036_StarterCode.git`
+1. Navigate to the directory `cd <dirname>`
+1. Execute the program using `python entertainment_center.py`
 
 # Files
 * .gitignore - To ignore the compiled files from the git repository
@@ -16,3 +16,4 @@ Source code for a Movie Trailer website.
 * Readme.md - Documentation file
 
 # Screenshot
+![Screenshot](screenshot.png)
