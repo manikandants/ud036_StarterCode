@@ -32,20 +32,22 @@ up = media.Movie(
     "https://www.youtube.com/watch?v=pkqzFUhGPJg"
 )
 
-# Create Up object
+# Create Wall.E object
 wallE = media.Movie(
     "Wall-E",
     "https://upload.wikimedia.org/wikipedia/en/c/c2/WALL-Eposter.jpg",
     "https://www.youtube.com/watch?v=alIq_wG9FNk"
 )
 
-# Create Up object
+# Create Toy Story object
 toyStory = media.Movie(
     "Toy Story",
     "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
     "https://www.youtube.com/watch?v=KYz2wyBy3kc"
 )
 
+# Create list of Movie objects
 movies = [ratatouille, avatar, insideOut, up, wallE, toyStory]
 
+# Open Movies Webpage
 fresh_tomatoes.open_movies_page(movies)
