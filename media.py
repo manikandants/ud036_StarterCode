@@ -1,9 +1,10 @@
 class Movie():
 
     """Movie has the following properties
-    title: Name of the movie
-    poster_image_url: Link to poster image
-    trailer_youtube_url: Link to trailer in youtube"""
+    Attributes:
+      title (str): Name of the movie
+      poster_image_url (str): Link to poster image
+      trailer_youtube_url (str): Link to trailer in youtube"""
 
     # Constructor method for Movie class
 
